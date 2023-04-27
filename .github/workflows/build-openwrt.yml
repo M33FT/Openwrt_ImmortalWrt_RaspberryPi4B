@@ -4,7 +4,7 @@
 # Author: kenzo
 #=================================================
 
-name: openwrt_21.02
+name: ImmortalWrt
 
 on:
   repository_dispatch:
